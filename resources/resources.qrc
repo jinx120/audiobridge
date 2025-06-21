@@ -1,0 +1,13 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>icons/app_icon.png</file>
+        <file>icons/send_icon.png</file>
+        <file>icons/receive_icon.png</file>
+        <file>icons/settings_icon.png</file>
+        <file>icons/connect_icon.png</file>
+        <file>icons/disconnect_icon.png</file>
+        <file>styles/dark_style.qss</file>
+        <file>styles/light_style.qss</file>
+    </qresource>
+</RCC>
